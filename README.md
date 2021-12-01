@@ -1,5 +1,5 @@
 # 👋 Hi, I’m YU XUAN LEE
-:baby: Birthday: 1998/07/27	
+:baby: Birthday: 1998/07/27<br>
 :books:	Education: 國立臺北教育大學 玩具與遊戲設計碩士班  
 :pushpin: Location: Taipei, Taiwan  
 📫 E-Mail: dsi020070@gmail.com  
