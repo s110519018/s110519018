@@ -29,12 +29,6 @@
 &emsp;&emsp;:movie_camera:	[宣傳影片](https://www.youtube.com/watch?v=rqrp_8xZJB0)  
 &emsp;&emsp;:movie_camera:	[操作影片](https://www.youtube.com/watch?v=kr1lymM6e_w)  
 &emsp;&emsp;:pencil2:[鐵人賽文章](https://ithelp.ithome.com.tw/users/20130458/ironman/3634?page=3)  
-- #### 2021 旺旺友聯 力挺醫護企劃徵稿活動
-&emsp;&emsp;提案名稱: 貼進你的心 **獲得第二名 & 最具創意獎**  
-&emsp;&emsp;:confetti_ball:[比賽網頁](https://www.wwunion.com/?p=14228)
-- #### 2021 致理科技大學 第2屆消費者保護創意標語全國比賽
-&emsp;&emsp;**獲得佳作**  
-&emsp;&emsp;:confetti_ball:[比賽網頁](https://gm-chihlee-edu-dot-yamm-track.appspot.com/Redirect?ukey=1wigvoSRjR1jmtei0OoKCqMi4FmX9mceJxMUfD38vIcU-0&key=YAMMID-94675834&link=https://supr.link/rtqbu)
 - #### 2021 資訊應用服務競賽 資訊應用組十
 &emsp;&emsp;以【疫距數得】 **獲得第二名**  
 &emsp;&emsp;負責工作: 介面設計、前端、影片剪輯  
