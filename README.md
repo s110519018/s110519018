@@ -5,7 +5,7 @@
 :computer: [Personal Website](https://s110519018.github.io/2022Portfolio/)  
 📫 E-Mail: dsi020070@gmail.com  
 # :wrench:	Skills
-- #### Frontend: HTML 、 CSS 、JavaScript 、 REACT  、 Vue(學習中)
+- #### Frontend: HTML 、 CSS 、JavaScript 、 SASS、 Pug 、 SCSS、 REACT 、 Vue(學習中)
 - #### Backend: Node.js
 - #### Games: Unity
 - #### APP: Swift 、 React Native
