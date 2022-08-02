@@ -5,13 +5,13 @@
 📫 E-Mail: dsi020070@gmail.com  
 
 # :wrench:	Skills
-- #### Frontend: HTML 、 CSS 、JavaScript 、 REACT  
+- #### Frontend: HTML 、 CSS 、JavaScript 、 REACT  、 Vue(學習中)
 - #### Backend: Node.js
 - #### Games: Unity
 - #### APP: Swift 、 React Native
 - #### Video Edit : After Effects
 - #### Filter : Spark AR
-- #### UI Design: Figma 、 Adobe XD
+- #### UI Design: Figma
 - #### Design: PhotoShop 、 Illustrator
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s110519018&theme=shades-of-purple)
 
@@ -34,3 +34,7 @@
 &emsp;&emsp;以【疫距數得】 **獲得第二名**  
 &emsp;&emsp;負責工作: 介面設計、前端、影片剪輯  
 &emsp;&emsp;:movie_camera:	[影片](https://youtu.be/z1jOn270cB4)
+- #### 2022 交通數據創新應用競賽
+&emsp;&emsp;以【巴巴走】 **晉級決賽**  
+&emsp;&emsp;負責工作: 前端  
+&emsp;&emsp;:movie_camera:	[影片](https://youtu.be/r1nxZKEH3N0)
