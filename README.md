@@ -1,6 +1,6 @@
 # 👋 Hi, I’m YU XUAN LEE 李淯萱
 :baby: Birthday: 1998/07/27<br>
-:books:	Education: 國立臺北教育大學 玩具與遊戲設計碩士班 N
+:books:	Education: 國立臺北教育大學 玩具與遊戲設計碩士班 NTUE DTD  
 :pushpin: Location: Taipei, Taiwan  
 :computer: [Personal Website](https://s110519018.github.io/2022Portfolio/)  
 📫 E-Mail: dsi020070@gmail.com  
