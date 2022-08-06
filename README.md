@@ -2,7 +2,7 @@
 :baby: Birthday: 1998/07/27<br>
 :books:	Education: 國立臺北教育大學 玩具與遊戲設計碩士班 NTUE DTD  
 :pushpin: Location: Taipei, Taiwan  
-:computer: [Personal Website](https://s110519018.github.io/2022Portfolio/)  
+:computer: [Personal Website](https://2022-portfolio-olive.vercel.app/)  
 📫 E-Mail: dsi020070@gmail.com  
 # :wrench:	Skills
 - #### Frontend: HTML 、 CSS 、JavaScript 、 SASS、 Pug 、 SCSS、 REACT 、 Vue(學習中)
